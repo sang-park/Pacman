@@ -6,7 +6,7 @@ section, p, footer, small {
   border: 0;
   outline: 0;
   font: inherit;
-  font-family: 'Open Sans', sans-serif;  color: inherit;
+  font-family: 'Press Start 2P', cursive;
   text-align: inherit;
   text-decoration: inherit;
   vertical-align: inherit;
@@ -51,10 +51,15 @@ canvas {
   margin-right: auto;
   margin-left: auto;
   display: block;
+  font-family: "Press Start 2P";
 }
 
 section {
   text-align: center;
   font-size: 24px;
   font-weight: 600;
+}
+@font-face {
+    font-family: 'Press Start 2P';
+    src: url('https://fonts.googleapis.com/css?family=Press+Start+2P');
 }
