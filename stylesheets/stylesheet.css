@@ -11,7 +11,6 @@ section, p, footer, small {
   text-decoration: inherit;
   vertical-align: inherit;
   box-sizing: inherit;
-  background: transparent;
 }
 
 header, nav, main, section,
@@ -33,18 +32,19 @@ ul {
 
 /* overall */
 body {
-  background: #ffffff;
+  background: black;
 }
 
 .logo {
   width: 600px;
-  height: 160px;
+  height: 150px;
+
   margin-right: auto;
   margin-left: auto;
   display: block;
 
   background-size: cover;
-  background-image: url("http://vignette3.wikia.nocookie.net/chroniclesofillusion/images/c/c5/Pac-Man_logo.gif/revision/latest?cb=20140617214547")
+  background-image: url("../images/logo.png");
 }
 canvas {
   width: 1000px;
@@ -52,6 +52,7 @@ canvas {
   margin-left: auto;
   display: block;
   font-family: "Press Start 2P";
+  padding: 10px 100px;
 }
 
 section {
