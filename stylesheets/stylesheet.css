@@ -46,8 +46,9 @@ body {
   background-size: cover;
   background-image: url("../images/logo.png");
 }
+
 canvas {
-  width: 1000px;
+  width: 600px;
   margin-right: auto;
   margin-left: auto;
   display: block;
