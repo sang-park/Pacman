@@ -1,6 +1,5 @@
 # Pac-man
-[Play][link]
-[link]: http://www.sangpark.me/Pacman/
+[Play](https://www.sangpark.me/Pacman/)
 
 ## Overview
 This project was inspired by the OG arcade game Pac-man. This version of Pac-man was created using JavaScript and Canvas. Pac-man, the yellow almost-circle, wanders around the map, eating pellets, while avoiding the four ghosts, Blinky, Pinky, Inky, and Clyde. Pac-man can eat a super-pellet (the big ones) to turn ghosts into food. The ghosts become weaker, and are reset into their base when eaten.
